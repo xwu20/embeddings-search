@@ -1,0 +1,57 @@
+number of queries is: 
+3
+
+number of elements in the dataset is: 
+82065
+
+average invocations is: 
+102.0
+
+max invocations is: 
+104
+
+min invocations is: 
+100
+
+standard deviation invocations is: 
+1.632993161855452
+
+number of failed trials is: 
+0
+
+approximation ratio matrix is: 
+[]
+
+average approx is: 
+-1
+
+max approx is: 
+-1
+
+min approx is: 
+-1
+
+standard deviation approx is: 
+-1
+
+averaged max approx ratio: 
+1.5389994251276757
+
+averaged average k approx ratio: 
+1.5389994251276757
+
+average k approx ratio per query: 
+[2.616998275383027, 1.0, 1.0]
+
+max k approx ratio per query: 
+[2.616998275383027, 1.0, 1.0]
+
+approx ratio per query: 
+[array([2.61699828]), array([1.]), array([1.])]
+
+approx recall per query: 
+0.6666666666666666
+
+average time elapsed: 
+0.08193763097127278
+
